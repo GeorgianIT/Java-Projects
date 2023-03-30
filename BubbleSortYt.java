@@ -12,6 +12,7 @@ public class BubbleSortYt {
 
         System.out.println("Before:");
         printArray(numbers);
+        System.out.println();
 
         boolean swappedSomething = true;
         while (swappedSomething){
